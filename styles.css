@@ -1,0 +1,10 @@
+
+.bordered {
+    border: 2px solid rgb(133, 160, 241);
+    padding: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+}
